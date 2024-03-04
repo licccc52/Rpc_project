@@ -7,14 +7,16 @@
 
 ### 添加了一些功能
 #### 1. 获取服务端的CPU使用率
-
+    添加 vector<double> GetCPULoad() 函数
     /proc/loadavg的前三个数据分别代表CPU过去1,5,15分钟的平均负载
 
 #### 2. 获取服务端的内存使用率
+    添加 calculateMemoryUsage() 函数
     遍历 /proc/meminfo 中的每一行, 取出每一行的键值对
     把 MemFree, Buffers ,Cached 取出来相加 / total_memory(MemTotal)
 
 #### 3. 获取服务端网卡收发数据情况
+    添加了 NetworkStats getNetworkStats(const std::string& interface) 函数
     /proc/net/dev文件中一共两行数据,取每一行的第3列与第11列
 
 
