@@ -1,0 +1,782 @@
+10:57:51 =>[Info] RpcProvider::NotifyService ,service_name : runningDataService
+10:57:51 =>[Info] RpcProvider::NotifyService ,method_name : CalculateMemoryUsage
+10:57:51 =>[Info] RpcProvider::NotifyService ,method_name : GetNetworkStats
+10:57:51 =>[Info] RpcProvider::NotifyService ,method_name : GetCPULoad
+10:57:51 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+10:57:56 =>[Info] MprpcChannel::CallMethod : send_rpc_str :  
+10:57:56 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 36
+10:57:56 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+10:57:56 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf :  
+10:57:56 =>[Info] RpcProvider::OnmMessage : header_size : 32
+10:57:56 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataService
+GetCPULoad, Deserialization SUCCESS!
+10:57:56 =>[Info] RpcProvider::OnmMessage : args_str : 
+11:0:30 =>[Info] MprpcChannel::CallMethod : send_rpc_str :  
+11:0:30 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 36
+11:0:30 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+11:0:35 =>[Info] RpcProvider::NotifyService ,service_name : runningDataService
+11:0:35 =>[Info] RpcProvider::NotifyService ,method_name : CalculateMemoryUsage
+11:0:35 =>[Info] RpcProvider::NotifyService ,method_name : GetNetworkStats
+11:0:35 =>[Info] RpcProvider::NotifyService ,method_name : GetCPULoad
+11:0:35 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+11:0:36 =>[Info] MprpcChannel::CallMethod : send_rpc_str :  
+11:0:36 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 36
+11:0:36 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+11:0:36 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf :  
+11:2:34 =>[Info] RpcProvider::NotifyService ,service_name : runningDataService
+11:2:34 =>[Info] RpcProvider::NotifyService ,method_name : CalculateMemoryUsage
+11:2:34 =>[Info] RpcProvider::NotifyService ,method_name : GetNetworkStats
+11:2:34 =>[Info] RpcProvider::NotifyService ,method_name : GetCPULoad
+11:2:34 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+11:2:35 =>[Info] MprpcChannel::CallMethod : send_rpc_str :  
+11:2:35 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 36
+11:2:35 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+11:2:35 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf :  
+11:2:35 =>[Info] RpcProvider::OnmMessage : header_size : 32
+11:2:35 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataService
+GetCPULoad, Deserialization SUCCESS!
+11:4:52 =>[Info] RpcProvider::NotifyService ,service_name : runningDataService
+11:4:52 =>[Info] RpcProvider::NotifyService ,method_name : CalculateMemoryUsage
+11:4:52 =>[Info] RpcProvider::NotifyService ,method_name : GetNetworkStats
+11:4:52 =>[Info] RpcProvider::NotifyService ,method_name : GetCPULoad
+11:4:52 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+11:4:54 =>[Info] MprpcChannel::CallMethod : send_rpc_str :  
+11:4:54 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 36
+11:4:54 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+11:4:54 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf :  
+11:8:13 =>[Info] RpcProvider::NotifyService ,service_name : FiendServiceRpc
+11:8:13 =>[Info] RpcProvider::NotifyService ,method_name : GetFriendsList
+11:8:13 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+11:8:15 =>[Info] MprpcChannel::CallMethod : send_rpc_str :  
+11:8:15 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 36
+11:8:15 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+11:8:50 =>[Info] RpcProvider::NotifyService ,service_name : FiendServiceRpc
+11:8:50 =>[Info] RpcProvider::NotifyService ,method_name : GetFriendsList
+11:8:50 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+11:8:52 =>[Info] MprpcChannel::CallMethod : send_rpc_str :  
+11:8:52 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 36
+11:8:52 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+11:9:5 =>[Info] RpcProvider::NotifyService ,service_name : runningDataService
+11:9:5 =>[Info] RpcProvider::NotifyService ,method_name : CalculateMemoryUsage
+11:9:5 =>[Info] RpcProvider::NotifyService ,method_name : GetNetworkStats
+11:9:5 =>[Info] RpcProvider::NotifyService ,method_name : GetCPULoad
+11:9:5 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+11:9:9 =>[Info] MprpcChannel::CallMethod : send_rpc_str :  
+11:9:9 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 36
+11:9:9 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+11:9:9 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf :  
+11:29:56 =>[Info] RpcProvider::NotifyService ,service_name : runningDataService
+11:29:56 =>[Info] RpcProvider::NotifyService ,method_name : CalculateMemoryUsage
+11:29:56 =>[Info] RpcProvider::NotifyService ,method_name : GetNetworkStats
+11:29:56 =>[Info] RpcProvider::NotifyService ,method_name : GetCPULoad
+11:29:56 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+11:29:58 =>[Info] MprpcChannel::CallMethod : send_rpc_str :  
+11:29:58 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 36
+11:29:58 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+11:29:58 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf :  
+11:29:58 =>[Info] RpcProvider::OnmMessage : header_size : 32
+11:29:58 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataService
+GetCPULoad, Deserialization SUCCESS!
+11:29:58 =>[Info] RpcProvider::OnmMessage : args_str : 
+11:29:58 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 
+q=
+×£pÍ?R¸…ëQÈ?¤p=
+×£À? send!
+12:27:39 =>[Info] RpcProvider::NotifyService ,service_name : runningDataService
+12:27:39 =>[Info] RpcProvider::NotifyService ,method_name : CalculateMemoryUsage
+12:27:39 =>[Info] RpcProvider::NotifyService ,method_name : GetNetworkStats
+12:27:39 =>[Info] RpcProvider::NotifyService ,method_name : GetCPULoad
+12:27:39 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+12:27:40 =>[Info] MprpcChannel::CallMethod : send_rpc_str :  
+12:27:40 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 36
+12:27:40 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+12:27:40 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf :  
+12:27:40 =>[Info] RpcProvider::OnmMessage : header_size : 32
+12:27:40 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataService
+GetCPULoad, Deserialization SUCCESS!
+12:27:40 =>[Info] RpcProvider::OnmMessage : args_str : 
+12:27:40 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 
+Ãõ(\ÂÅ?Ãõ(\ÂÅ?{®GázÄ? send!
+12:27:40 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+12:27:40 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 47
+12:27:40 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+12:27:40 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : '
+12:27:40 =>[Info] RpcProvider::OnmMessage : header_size : 39
+12:27:40 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceGetNetworkStats, Deserialization SUCCESS!
+12:27:40 =>[Info] RpcProvider::OnmMessage : args_str : 
+lo
+12:27:40 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: ŸQŸQ send!
+12:27:40 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+12:27:40 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 50
+12:27:40 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+12:27:40 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : '
+12:27:40 =>[Info] RpcProvider::OnmMessage : header_size : 39
+12:27:40 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceGetNetworkStats, Deserialization SUCCESS!
+12:27:40 =>[Info] RpcProvider::OnmMessage : args_str : 
+ens33
+12:27:40 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: À—-Ù×/ send!
+12:44:19 =>[Info] RpcProvider::NotifyService ,service_name : runningDataService
+12:44:19 =>[Info] RpcProvider::NotifyService ,method_name : CalculateMemoryUsage
+12:44:19 =>[Info] RpcProvider::NotifyService ,method_name : GetNetworkStats
+12:44:19 =>[Info] RpcProvider::NotifyService ,method_name : GetCPULoad
+12:44:19 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+12:44:20 =>[Info] MprpcChannel::CallMethod : send_rpc_str :  
+12:44:20 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 36
+12:44:20 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+12:44:20 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf :  
+12:44:20 =>[Info] RpcProvider::OnmMessage : header_size : 32
+12:44:20 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataService
+GetCPULoad, Deserialization SUCCESS!
+12:44:20 =>[Info] RpcProvider::OnmMessage : args_str : 
+12:44:20 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 
+×£p=
+×Ó?333333Ã?)\Âõ(¼? send!
+12:44:20 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+12:44:20 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 47
+12:44:20 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+12:44:20 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : '
+12:44:20 =>[Info] RpcProvider::OnmMessage : header_size : 39
+12:44:20 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceGetNetworkStats, Deserialization SUCCESS!
+12:44:20 =>[Info] RpcProvider::OnmMessage : args_str : 
+lo
+12:44:20 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: ¾öR¾öR send!
+12:44:20 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+12:44:20 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 50
+12:44:20 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+12:44:20 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : '
+12:44:20 =>[Info] RpcProvider::OnmMessage : header_size : 39
+12:44:20 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceGetNetworkStats, Deserialization SUCCESS!
+12:44:20 =>[Info] RpcProvider::OnmMessage : args_str : 
+ens33
+12:44:20 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: µÿ-ÁÁ0 send!
+12:59:52 =>[Info] RpcProvider::NotifyService ,service_name : runningDataService
+12:59:52 =>[Info] RpcProvider::NotifyService ,method_name : CalculateMemoryUsage
+12:59:52 =>[Info] RpcProvider::NotifyService ,method_name : GetNetworkStats
+12:59:52 =>[Info] RpcProvider::NotifyService ,method_name : GetCPULoad
+12:59:52 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+12:59:54 =>[Info] MprpcChannel::CallMethod : send_rpc_str :  
+12:59:54 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 36
+12:59:54 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+12:59:54 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf :  
+12:59:54 =>[Info] RpcProvider::OnmMessage : header_size : 32
+12:59:54 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataService
+GetCPULoad, Deserialization SUCCESS!
+12:59:54 =>[Info] RpcProvider::OnmMessage : args_str : 
+12:59:54 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 
+¤p=
+×£Ð?áz®GáÊ?
+×£p=
+Ç? send!
+12:59:54 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+12:59:54 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 47
+12:59:54 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+12:59:54 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : '
+12:59:54 =>[Info] RpcProvider::OnmMessage : header_size : 39
+12:59:54 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceGetNetworkStats, Deserialization SUCCESS!
+12:59:54 =>[Info] RpcProvider::OnmMessage : args_str : 
+lo
+12:59:54 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: ÄúTÄúT send!
+12:59:54 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+12:59:54 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 50
+12:59:54 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+12:59:54 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : '
+12:59:54 =>[Info] RpcProvider::OnmMessage : header_size : 39
+12:59:54 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceGetNetworkStats, Deserialization SUCCESS!
+12:59:54 =>[Info] RpcProvider::OnmMessage : args_str : 
+ens33
+12:59:54 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: †€/ÿÍ1 send!
+12:59:54 =>[Info] MprpcChannel::CallMethod : send_rpc_str : *
+12:59:54 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 46
+12:59:54 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+12:59:54 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : *
+12:59:54 =>[Info] RpcProvider::OnmMessage : header_size : 42
+12:59:54 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceCalculateMemoryUsage, Deserialization SUCCESS!
+12:59:54 =>[Info] RpcProvider::OnmMessage : args_str : 
+12:59:54 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 	 Â¡HY.F@ send!
+13:2:12 =>[Info] RpcProvider::NotifyService ,service_name : runningDataService
+13:2:12 =>[Info] RpcProvider::NotifyService ,method_name : CalculateMemoryUsage
+13:2:12 =>[Info] RpcProvider::NotifyService ,method_name : GetNetworkStats
+13:2:12 =>[Info] RpcProvider::NotifyService ,method_name : GetCPULoad
+13:2:12 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+13:2:18 =>[Info] MprpcChannel::CallMethod : send_rpc_str :  
+13:2:18 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 36
+13:2:18 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:2:18 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf :  
+13:2:18 =>[Info] RpcProvider::OnmMessage : header_size : 32
+13:2:18 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataService
+GetCPULoad, Deserialization SUCCESS!
+13:2:18 =>[Info] RpcProvider::OnmMessage : args_str : 
+13:2:18 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 
+ffffffÖ?¤p=
+×£Ð?š™™™™™É? send!
+13:2:18 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+13:2:18 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 47
+13:2:18 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:2:18 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : '
+13:2:18 =>[Info] RpcProvider::OnmMessage : header_size : 39
+13:2:18 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceGetNetworkStats, Deserialization SUCCESS!
+13:2:18 =>[Info] RpcProvider::OnmMessage : args_str : 
+lo
+13:2:18 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: Ž¤UŽ¤U send!
+13:2:18 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+13:2:18 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 50
+13:2:18 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:2:18 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : '
+13:2:18 =>[Info] RpcProvider::OnmMessage : header_size : 39
+13:2:18 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceGetNetworkStats, Deserialization SUCCESS!
+13:2:18 =>[Info] RpcProvider::OnmMessage : args_str : 
+ens33
+13:2:18 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: þ’/»ã1 send!
+13:2:18 =>[Info] MprpcChannel::CallMethod : send_rpc_str : *
+13:2:18 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 46
+13:2:18 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:2:18 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : *
+13:2:18 =>[Info] RpcProvider::OnmMessage : header_size : 42
+13:2:18 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceCalculateMemoryUsage, Deserialization SUCCESS!
+13:2:18 =>[Info] RpcProvider::OnmMessage : args_str : 
+13:2:18 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 	C(oà<F@ send!
+13:2:49 =>[Info] RpcProvider::NotifyService ,service_name : runningDataService
+13:2:49 =>[Info] RpcProvider::NotifyService ,method_name : CalculateMemoryUsage
+13:2:49 =>[Info] RpcProvider::NotifyService ,method_name : GetNetworkStats
+13:2:49 =>[Info] RpcProvider::NotifyService ,method_name : GetCPULoad
+13:2:49 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+13:2:50 =>[Info] MprpcChannel::CallMethod : send_rpc_str :  
+13:2:50 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 36
+13:2:50 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:2:50 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf :  
+13:2:50 =>[Info] RpcProvider::OnmMessage : header_size : 32
+13:2:50 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataService
+GetCPULoad, Deserialization SUCCESS!
+13:2:50 =>[Info] RpcProvider::OnmMessage : args_str : 
+13:2:50 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 
+Ãõ(\ÂÕ?¤p=
+×£Ð?š™™™™™É? send!
+13:2:50 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+13:2:50 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 47
+13:2:50 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:2:50 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : '
+13:2:50 =>[Info] RpcProvider::OnmMessage : header_size : 39
+13:2:50 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceGetNetworkStats, Deserialization SUCCESS!
+13:2:50 =>[Info] RpcProvider::OnmMessage : args_str : 
+lo
+13:2:50 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: À´UÀ´U send!
+13:2:50 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+13:2:50 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 50
+13:2:50 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:2:50 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : '
+13:2:50 =>[Info] RpcProvider::OnmMessage : header_size : 39
+13:2:50 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceGetNetworkStats, Deserialization SUCCESS!
+13:2:50 =>[Info] RpcProvider::OnmMessage : args_str : 
+ens33
+13:2:50 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: €š/›ë1 send!
+13:2:50 =>[Info] MprpcChannel::CallMethod : send_rpc_str : *
+13:2:50 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 46
+13:2:50 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:2:50 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : *
+13:2:50 =>[Info] RpcProvider::OnmMessage : header_size : 42
+13:2:50 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceCalculateMemoryUsage, Deserialization SUCCESS!
+13:2:50 =>[Info] RpcProvider::OnmMessage : args_str : 
+13:2:50 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 	Ý~YðÌsF@ send!
+13:4:15 =>[Info] RpcProvider::NotifyService ,service_name : runningDataService
+13:4:15 =>[Info] RpcProvider::NotifyService ,method_name : CalculateMemoryUsage
+13:4:15 =>[Info] RpcProvider::NotifyService ,method_name : GetNetworkStats
+13:4:15 =>[Info] RpcProvider::NotifyService ,method_name : GetCPULoad
+13:4:15 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+13:4:17 =>[Info] MprpcChannel::CallMethod : send_rpc_str :  
+13:4:17 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 36
+13:4:17 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:4:17 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf :  
+13:4:17 =>[Info] RpcProvider::OnmMessage : header_size : 32
+13:4:17 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataService
+GetCPULoad, Deserialization SUCCESS!
+13:4:17 =>[Info] RpcProvider::OnmMessage : args_str : 
+13:4:17 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 
+¤p=
+×£À?áz®GáÊ?
+×£p=
+Ç? send!
+13:4:17 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+13:4:17 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 47
+13:4:17 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:4:17 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : '
+13:4:17 =>[Info] RpcProvider::OnmMessage : header_size : 39
+13:4:17 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceGetNetworkStats, Deserialization SUCCESS!
+13:4:17 =>[Info] RpcProvider::OnmMessage : args_str : 
+lo
+13:4:17 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: ÐËUÐËU send!
+13:4:17 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+13:4:17 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 50
+13:4:17 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:4:17 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : '
+13:4:17 =>[Info] RpcProvider::OnmMessage : header_size : 39
+13:4:17 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceGetNetworkStats, Deserialization SUCCESS!
+13:4:17 =>[Info] RpcProvider::OnmMessage : args_str : 
+ens33
+13:4:17 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: ’¤/Óõ1 send!
+13:4:17 =>[Info] MprpcChannel::CallMethod : send_rpc_str : *
+13:4:17 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 46
+13:4:17 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:4:17 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : *
+13:4:17 =>[Info] RpcProvider::OnmMessage : header_size : 42
+13:4:17 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceCalculateMemoryUsage, Deserialization SUCCESS!
+13:4:17 =>[Info] RpcProvider::OnmMessage : args_str : 
+13:4:17 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 	¶'f«GF@ send!
+13:8:17 =>[Info] RpcProvider::NotifyService ,service_name : runningDataService
+13:8:17 =>[Info] RpcProvider::NotifyService ,method_name : CalculateMemoryUsage
+13:8:17 =>[Info] RpcProvider::NotifyService ,method_name : GetNetworkStats
+13:8:17 =>[Info] RpcProvider::NotifyService ,method_name : GetCPULoad
+13:8:17 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+13:8:26 =>[Info] MprpcChannel::CallMethod : send_rpc_str :  
+13:8:26 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 36
+13:8:26 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:8:26 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf :  
+13:8:26 =>[Info] RpcProvider::OnmMessage : header_size : 32
+13:8:26 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataService
+GetCPULoad, Deserialization SUCCESS!
+13:8:26 =>[Info] RpcProvider::OnmMessage : args_str : 
+13:8:26 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 
+…ëQ¸Õ?R¸…ëQÈ?
+×£p=
+Ç? send!
+13:8:26 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+13:8:26 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 47
+13:8:26 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:8:26 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : '
+13:8:26 =>[Info] RpcProvider::OnmMessage : header_size : 39
+13:8:26 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceGetNetworkStats, Deserialization SUCCESS!
+13:8:26 =>[Info] RpcProvider::OnmMessage : args_str : 
+lo
+13:8:26 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: ýUýU send!
+13:8:26 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+13:8:26 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 50
+13:8:26 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:8:26 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : '
+13:8:26 =>[Info] RpcProvider::OnmMessage : header_size : 39
+13:8:26 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceGetNetworkStats, Deserialization SUCCESS!
+13:8:26 =>[Info] RpcProvider::OnmMessage : args_str : 
+ens33
+13:8:26 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: »»/”2 send!
+13:8:26 =>[Info] MprpcChannel::CallMethod : send_rpc_str : *
+13:8:26 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 46
+13:8:26 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:8:26 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : *
+13:8:26 =>[Info] RpcProvider::OnmMessage : header_size : 42
+13:8:26 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceCalculateMemoryUsage, Deserialization SUCCESS!
+13:8:26 =>[Info] RpcProvider::OnmMessage : args_str : 
+13:8:26 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 	2»X8bE@ send!
+13:9:33 =>[Info] RpcProvider::NotifyService ,service_name : runningDataService
+13:9:33 =>[Info] RpcProvider::NotifyService ,method_name : CalculateMemoryUsage
+13:9:33 =>[Info] RpcProvider::NotifyService ,method_name : GetNetworkStats
+13:9:33 =>[Info] RpcProvider::NotifyService ,method_name : GetCPULoad
+13:9:33 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+13:9:42 =>[Info] MprpcChannel::CallMethod : send_rpc_str :  
+13:9:42 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 36
+13:9:42 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:9:42 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf :  
+13:9:42 =>[Info] RpcProvider::OnmMessage : header_size : 32
+13:9:42 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataService
+GetCPULoad, Deserialization SUCCESS!
+13:9:42 =>[Info] RpcProvider::OnmMessage : args_str : 
+13:9:42 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 
+333333Ó?)\Âõ(Ì?
+×£p=
+Ç? send!
+13:9:53 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+13:9:55 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 47
+13:9:55 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:9:55 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+13:9:58 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 50
+13:9:58 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:9:58 =>[Info] MprpcChannel::CallMethod : send_rpc_str : *
+13:10:7 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 46
+13:10:7 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:19:40 =>[Info] RpcProvider::NotifyService ,service_name : runningDataService
+13:19:40 =>[Info] RpcProvider::NotifyService ,method_name : CalculateMemoryUsage
+13:19:40 =>[Info] RpcProvider::NotifyService ,method_name : GetNetworkStats
+13:19:40 =>[Info] RpcProvider::NotifyService ,method_name : GetCPULoad
+13:19:40 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+13:19:47 =>[Info] MprpcChannel::CallMethod : send_rpc_str :  
+13:19:47 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 36
+13:19:47 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:19:40 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf :  
+13:19:47 =>[Info] RpcProvider::OnmMessage : header_size : 32
+13:19:47 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataService
+GetCPULoad, Deserialization SUCCESS!
+13:19:47 =>[Info] RpcProvider::OnmMessage : args_str : 
+13:19:47 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 
+)\Âõ(Ì?Ãõ(\ÂÕ?ìQ¸…ëÑ? send!
+13:19:47 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+13:19:47 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 47
+13:19:47 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:19:47 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : '
+13:19:47 =>[Info] RpcProvider::OnmMessage : header_size : 39
+13:19:47 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceGetNetworkStats, Deserialization SUCCESS!
+13:19:47 =>[Info] RpcProvider::OnmMessage : args_str : 
+lo
+13:19:47 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: ´W´W send!
+13:19:47 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+13:19:47 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 50
+13:19:47 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:19:47 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : '
+13:19:47 =>[Info] RpcProvider::OnmMessage : header_size : 39
+13:19:47 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceGetNetworkStats, Deserialization SUCCESS!
+13:19:47 =>[Info] RpcProvider::OnmMessage : args_str : 
+ens33
+13:19:47 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: ¿“0Ÿ†3 send!
+13:19:47 =>[Info] MprpcChannel::CallMethod : send_rpc_str : *
+13:19:47 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 46
+13:19:47 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:19:47 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : *
+13:19:47 =>[Info] RpcProvider::OnmMessage : header_size : 42
+13:19:47 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceCalculateMemoryUsage, Deserialization SUCCESS!
+13:19:47 =>[Info] RpcProvider::OnmMessage : args_str : 
+13:19:47 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 	¿¶¨3]¥M@ send!
+13:22:24 =>[Info] RpcProvider::NotifyService ,service_name : runningDataService
+13:22:24 =>[Info] RpcProvider::NotifyService ,method_name : CalculateMemoryUsage
+13:22:24 =>[Info] RpcProvider::NotifyService ,method_name : GetNetworkStats
+13:22:24 =>[Info] RpcProvider::NotifyService ,method_name : GetCPULoad
+13:22:24 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+13:22:26 =>[Info] MprpcChannel::CallMethod : send_rpc_str :  
+13:22:26 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 36
+13:22:26 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:22:26 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf :  
+13:22:26 =>[Info] RpcProvider::OnmMessage : header_size : 32
+13:22:26 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataService
+GetCPULoad, Deserialization SUCCESS!
+13:22:26 =>[Info] RpcProvider::OnmMessage : args_str : 
+13:22:26 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 
+ÍÌÌÌÌÌÜ?Ãõ(\ÂÕ?ìQ¸…ëÑ? send!
+13:22:26 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+13:22:26 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 47
+13:22:26 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:22:26 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : '
+13:22:26 =>[Info] RpcProvider::OnmMessage : header_size : 39
+13:22:26 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceGetNetworkStats, Deserialization SUCCESS!
+13:22:26 =>[Info] RpcProvider::OnmMessage : args_str : 
+lo
+13:22:26 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: ½·W½·W send!
+13:22:26 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+13:22:26 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 50
+13:22:26 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:22:26 =>[Info] MprpcChannel::CallMethod : send_rpc_str : *
+13:22:26 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 46
+13:22:26 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:22:30 =>[Info] RpcProvider::NotifyService ,service_name : runningDataService
+13:22:30 =>[Info] RpcProvider::NotifyService ,method_name : CalculateMemoryUsage
+13:22:30 =>[Info] RpcProvider::NotifyService ,method_name : GetNetworkStats
+13:22:30 =>[Info] RpcProvider::NotifyService ,method_name : GetCPULoad
+13:22:30 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+13:22:33 =>[Info] MprpcChannel::CallMethod : send_rpc_str :  
+13:22:33 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 36
+13:22:33 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:22:30 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf :  
+13:22:33 =>[Info] RpcProvider::OnmMessage : header_size : 32
+13:22:33 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataService
+GetCPULoad, Deserialization SUCCESS!
+13:22:33 =>[Info] RpcProvider::OnmMessage : args_str : 
+13:22:33 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 
+R¸…ëQØ?…ëQ¸Õ?ìQ¸…ëÑ? send!
+13:22:33 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+13:22:33 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 47
+13:22:33 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:22:33 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : '
+13:22:33 =>[Info] RpcProvider::OnmMessage : header_size : 39
+13:22:33 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceGetNetworkStats, Deserialization SUCCESS!
+13:22:33 =>[Info] RpcProvider::OnmMessage : args_str : 
+lo
+13:22:33 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: ½»W½»W send!
+13:22:33 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+13:22:33 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 50
+13:22:33 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:22:33 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : '
+13:22:33 =>[Info] RpcProvider::OnmMessage : header_size : 39
+13:22:33 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceGetNetworkStats, Deserialization SUCCESS!
+13:22:33 =>[Info] RpcProvider::OnmMessage : args_str : 
+ens33
+13:22:33 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: ¾¬0Ãª3 send!
+13:22:33 =>[Info] MprpcChannel::CallMethod : send_rpc_str : *
+13:22:33 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 46
+13:22:33 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:22:33 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : *
+13:22:33 =>[Info] RpcProvider::OnmMessage : header_size : 42
+13:22:33 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceCalculateMemoryUsage, Deserialization SUCCESS!
+13:22:33 =>[Info] RpcProvider::OnmMessage : args_str : 
+13:22:33 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 	¼úQÏ:CN@ send!
+13:23:44 =>[Info] RpcProvider::NotifyService ,service_name : runningDataService
+13:23:44 =>[Info] RpcProvider::NotifyService ,method_name : CalculateMemoryUsage
+13:23:44 =>[Info] RpcProvider::NotifyService ,method_name : GetNetworkStats
+13:23:44 =>[Info] RpcProvider::NotifyService ,method_name : GetCPULoad
+13:23:44 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+13:23:45 =>[Info] MprpcChannel::CallMethod : send_rpc_str :  
+13:23:45 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 36
+13:23:45 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:23:45 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf :  
+13:23:45 =>[Info] RpcProvider::OnmMessage : header_size : 32
+13:23:45 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataService
+GetCPULoad, Deserialization SUCCESS!
+13:23:45 =>[Info] RpcProvider::OnmMessage : args_str : 
+13:23:45 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 
+Ház®GÑ?Âõ(\Ò?Ház®GÑ? send!
+13:23:45 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+13:23:45 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 47
+13:23:45 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:23:45 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : '
+13:23:45 =>[Info] RpcProvider::OnmMessage : header_size : 39
+13:23:45 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceGetNetworkStats, Deserialization SUCCESS!
+13:23:45 =>[Info] RpcProvider::OnmMessage : args_str : 
+lo
+13:23:45 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: ªÈWªÈW send!
+13:23:45 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+13:23:45 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 50
+13:23:45 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:23:45 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : '
+13:23:45 =>[Info] RpcProvider::OnmMessage : header_size : 39
+13:23:45 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceGetNetworkStats, Deserialization SUCCESS!
+13:23:45 =>[Info] RpcProvider::OnmMessage : args_str : 
+ens33
+13:23:45 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: õ±0…°3 send!
+13:23:45 =>[Info] MprpcChannel::CallMethod : send_rpc_str : *
+13:23:45 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 46
+13:23:45 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+13:23:45 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : *
+13:23:45 =>[Info] RpcProvider::OnmMessage : header_size : 42
+13:23:45 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceCalculateMemoryUsage, Deserialization SUCCESS!
+13:23:45 =>[Info] RpcProvider::OnmMessage : args_str : 
+13:23:45 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 	G 7›9N@ send!
+14:48:24 =>[Info] RpcProvider::NotifyService ,service_name : runningDataService
+14:48:24 =>[Info] RpcProvider::NotifyService ,method_name : CalculateMemoryUsage
+14:48:24 =>[Info] RpcProvider::NotifyService ,method_name : GetNetworkStats
+14:48:24 =>[Info] RpcProvider::NotifyService ,method_name : GetCPULoad
+14:48:24 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+14:48:26 =>[Info] MprpcChannel::CallMethod : send_rpc_str :  
+14:48:26 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 36
+14:48:26 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+14:48:26 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf :  
+14:48:26 =>[Info] RpcProvider::OnmMessage : header_size : 32
+14:48:26 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataService
+GetCPULoad, Deserialization SUCCESS!
+14:48:26 =>[Info] RpcProvider::OnmMessage : args_str : 
+14:48:26 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 
+q=
+×£pÍ?)\Âõ(¼?
+×£p=
+·? send!
+14:48:26 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+14:48:26 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 47
+14:48:26 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+14:48:26 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : '
+14:48:26 =>[Info] RpcProvider::OnmMessage : header_size : 39
+14:48:26 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceGetNetworkStats, Deserialization SUCCESS!
+14:48:26 =>[Info] RpcProvider::OnmMessage : args_str : 
+lo
+14:48:26 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: âôhâôh send!
+14:48:26 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+14:48:26 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 50
+14:48:26 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+14:48:26 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : '
+14:48:26 =>[Info] RpcProvider::OnmMessage : header_size : 39
+14:48:26 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceGetNetworkStats, Deserialization SUCCESS!
+14:48:26 =>[Info] RpcProvider::OnmMessage : args_str : 
+ens33
+14:48:26 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: Ÿ¥4Â€8 send!
+14:48:26 =>[Info] MprpcChannel::CallMethod : send_rpc_str : *
+14:48:26 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 46
+14:48:26 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+14:48:26 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : *
+14:48:26 =>[Info] RpcProvider::OnmMessage : header_size : 42
+14:48:26 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceCalculateMemoryUsage, Deserialization SUCCESS!
+14:48:26 =>[Info] RpcProvider::OnmMessage : args_str : 
+14:48:26 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 	Xß{§G@ send!
+14:49:30 =>[Info] RpcProvider::NotifyService ,service_name : runningDataService
+14:49:30 =>[Info] RpcProvider::NotifyService ,method_name : CalculateMemoryUsage
+14:49:30 =>[Info] RpcProvider::NotifyService ,method_name : GetNetworkStats
+14:49:30 =>[Info] RpcProvider::NotifyService ,method_name : GetCPULoad
+14:49:30 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+14:49:32 =>[Info] MprpcChannel::CallMethod : send_rpc_str :  
+14:49:32 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 36
+14:49:32 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+14:49:32 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf :  
+14:49:32 =>[Info] RpcProvider::OnmMessage : header_size : 32
+14:49:32 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataService
+GetCPULoad, Deserialization SUCCESS!
+14:49:32 =>[Info] RpcProvider::OnmMessage : args_str : 
+14:49:32 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 
+ffffffÖ?{®GázÄ?)\Âõ(¼? send!
+14:49:32 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+14:49:32 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 47
+14:49:32 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+14:49:32 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : '
+14:49:32 =>[Info] RpcProvider::OnmMessage : header_size : 39
+14:49:32 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceGetNetworkStats, Deserialization SUCCESS!
+14:49:32 =>[Info] RpcProvider::OnmMessage : args_str : 
+lo
+14:49:32 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: Á’iÁ’i send!
+14:49:32 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+14:49:32 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 50
+14:49:32 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+14:49:32 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : '
+14:49:32 =>[Info] RpcProvider::OnmMessage : header_size : 39
+14:49:32 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceGetNetworkStats, Deserialization SUCCESS!
+14:49:32 =>[Info] RpcProvider::OnmMessage : args_str : 
+ens33
+14:49:32 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: Ã´4™›8 send!
+14:49:32 =>[Info] MprpcChannel::CallMethod : send_rpc_str : *
+14:49:32 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 46
+14:49:32 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+14:49:32 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : *
+14:49:32 =>[Info] RpcProvider::OnmMessage : header_size : 42
+14:49:32 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceCalculateMemoryUsage, Deserialization SUCCESS!
+14:49:32 =>[Info] RpcProvider::OnmMessage : args_str : 
+14:49:32 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 	Ø×‰ZG@ send!
+14:50:54 =>[Info] RpcProvider::NotifyService ,service_name : runningDataService
+14:50:54 =>[Info] RpcProvider::NotifyService ,method_name : CalculateMemoryUsage
+14:50:54 =>[Info] RpcProvider::NotifyService ,method_name : GetNetworkStats
+14:50:54 =>[Info] RpcProvider::NotifyService ,method_name : GetCPULoad
+14:50:54 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+14:50:56 =>[Info] MprpcChannel::CallMethod : send_rpc_str :  
+14:50:56 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 36
+14:50:56 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+14:50:56 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf :  
+14:50:56 =>[Info] RpcProvider::OnmMessage : header_size : 32
+14:50:56 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataService
+GetCPULoad, Deserialization SUCCESS!
+14:50:56 =>[Info] RpcProvider::OnmMessage : args_str : 
+14:50:56 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 
+Âõ(\Ò?Ãõ(\ÂÅ?)\Âõ(¼? send!
+14:50:56 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+14:50:56 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 47
+14:50:56 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+14:50:56 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : '
+14:50:56 =>[Info] RpcProvider::OnmMessage : header_size : 39
+14:50:56 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceGetNetworkStats, Deserialization SUCCESS!
+14:50:56 =>[Info] RpcProvider::OnmMessage : args_str : 
+lo
+14:50:56 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: ¶°i¶°i send!
+14:50:56 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+14:50:56 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 50
+14:50:56 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+14:50:56 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : '
+14:50:56 =>[Info] RpcProvider::OnmMessage : header_size : 39
+14:50:56 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceGetNetworkStats, Deserialization SUCCESS!
+14:50:56 =>[Info] RpcProvider::OnmMessage : args_str : 
+ens33
+14:50:56 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: ÖÂ4©8 send!
+14:50:56 =>[Info] MprpcChannel::CallMethod : send_rpc_str : *
+14:50:56 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 46
+14:50:56 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+14:50:56 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : *
+14:50:56 =>[Info] RpcProvider::OnmMessage : header_size : 42
+14:50:56 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataServiceCalculateMemoryUsage, Deserialization SUCCESS!
+14:50:56 =>[Info] RpcProvider::OnmMessage : args_str : 
+14:50:56 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 	K•l¢¾G@ send!
+14:54:7 =>[Info] RpcProvider::NotifyService ,service_name : runningDataService
+14:54:7 =>[Info] RpcProvider::NotifyService ,method_name : CalculateMemoryUsage
+14:54:7 =>[Info] RpcProvider::NotifyService ,method_name : GetNetworkStats
+14:54:7 =>[Info] RpcProvider::NotifyService ,method_name : GetCPULoad
+14:54:7 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+14:54:54 =>[Info] MprpcChannel::CallMethod : send_rpc_str : #
+14:54:54 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 42
+14:54:54 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+14:55:50 =>[Info] MprpcChannel::CallMethod : send_rpc_str :  
+14:55:50 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 36
+14:55:50 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+14:55:50 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+14:55:50 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 47
+14:55:50 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+14:55:50 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+14:55:50 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 50
+14:55:50 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+14:55:50 =>[Info] MprpcChannel::CallMethod : send_rpc_str : *
+14:55:50 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 46
+14:55:50 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+14:56:53 =>[Info] RpcProvider::NotifyService ,service_name : runningDataService
+14:56:53 =>[Info] RpcProvider::NotifyService ,method_name : CalculateMemoryUsage
+14:56:53 =>[Info] RpcProvider::NotifyService ,method_name : GetNetworkStats
+14:56:53 =>[Info] RpcProvider::NotifyService ,method_name : GetCPULoad
+14:56:53 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+14:57:33 =>[Info] MprpcChannel::CallMethod : send_rpc_str :  
+14:57:33 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 36
+14:57:33 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+14:59:4 =>[Info] RpcProvider::NotifyService ,service_name : runningDataService
+14:59:4 =>[Info] RpcProvider::NotifyService ,method_name : CalculateMemoryUsage
+14:59:4 =>[Info] RpcProvider::NotifyService ,method_name : GetNetworkStats
+14:59:4 =>[Info] RpcProvider::NotifyService ,method_name : GetCPULoad
+14:59:4 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+14:59:35 =>[Info] MprpcChannel::CallMethod : send_rpc_str :  
+14:59:35 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 36
+14:59:35 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+14:59:35 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf :  
+14:59:35 =>[Info] RpcProvider::OnmMessage : header_size : 32
+14:59:35 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+runningDataService
+GetCPULoad, Deserialization SUCCESS!
+14:59:35 =>[Info] RpcProvider::OnmMessage : args_str : 
+14:59:35 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 
+
+×£p=
+·?ìQ¸…ë±?ìQ¸…ë±? send!
+14:59:42 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+15:0:19 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 47
+15:0:19 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+15:0:39 =>[Info] MprpcChannel::CallMethod : send_rpc_str : '
+15:0:55 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 50
+15:0:55 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+15:0:55 =>[Info] MprpcChannel::CallMethod : send_rpc_str : *
+15:1:1 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 46
+15:1:1 =>[Info] MprpcChannel::CallMethod : --------------------------------------------

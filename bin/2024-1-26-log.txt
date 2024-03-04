@@ -1,0 +1,5 @@
+19:52:26 =>[error] first log message!
+19:52:26 =>[error] /home/lichuang/Mprpc_project/example/callee/friendservice.cc : main 44
+20:14:13 =>[Info] RpcProvider::NotifyService ,service_name : FiendServiceRpc
+20:14:13 =>[Info] RpcProvider::NotifyService ,method_name : GetFriendsList
+20:14:13 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000

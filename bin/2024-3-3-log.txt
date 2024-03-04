@@ -1,0 +1,52 @@
+23:16:15 =>[Info] RpcProvider::NotifyService ,service_name : FiendServiceRpc
+23:16:15 =>[Info] RpcProvider::NotifyService ,method_name : GetFriendsList
+23:16:15 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+23:16:16 =>[Info] MprpcChannel::CallMethod : send_rpc_str : #
+23:16:16 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 42
+23:16:16 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+23:16:16 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : #
+23:16:16 =>[Info] RpcProvider::OnmMessage : header_size : 35
+23:16:16 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+FiendServiceRpcGetFriendsList, Deserialization SUCCESS!
+23:16:16 =>[Info] RpcProvider::OnmMessage : args_str : è
+23:16:16 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 
+ send!
+23:20:0 =>[Info] RpcProvider::NotifyService ,service_name : FiendServiceRpc
+23:20:0 =>[Info] RpcProvider::NotifyService ,method_name : GetFriendsList
+23:20:0 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+23:20:2 =>[Info] MprpcChannel::CallMethod : send_rpc_str : #
+23:20:2 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 42
+23:20:2 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+23:20:2 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : #
+23:20:2 =>[Info] RpcProvider::OnmMessage : header_size : 35
+23:20:2 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+FiendServiceRpcGetFriendsList, Deserialization SUCCESS!
+23:20:2 =>[Info] RpcProvider::OnmMessage : args_str : è
+23:20:2 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 
+ send!
+23:22:31 =>[Info] RpcProvider::NotifyService ,service_name : FiendServiceRpc
+23:22:31 =>[Info] RpcProvider::NotifyService ,method_name : GetFriendsList
+23:22:31 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+23:22:33 =>[Info] MprpcChannel::CallMethod : send_rpc_str : #
+23:22:33 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 42
+23:22:33 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+23:22:33 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : #
+23:22:33 =>[Info] RpcProvider::OnmMessage : header_size : 35
+23:22:33 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+FiendServiceRpcGetFriendsList, Deserialization SUCCESS!
+23:22:33 =>[Info] RpcProvider::OnmMessage : args_str : è
+23:22:33 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 
+ send!
+23:23:46 =>[Info] RpcProvider::NotifyService ,service_name : FiendServiceRpc
+23:23:46 =>[Info] RpcProvider::NotifyService ,method_name : GetFriendsList
+23:23:46 =>[Info] RpcProvider::Run(), RpcProvider start service at ip: 127.0.0.1, port : 8000
+23:23:47 =>[Info] MprpcChannel::CallMethod : send_rpc_str : #
+23:23:47 =>[Info] MprpcChannel::CallMethod : send_rpc_str.size() : 42
+23:23:47 =>[Info] MprpcChannel::CallMethod : --------------------------------------------
+23:23:47 =>[Info] RpcProvider::OnmMessage : std::string& recv_buf : #
+23:23:47 =>[Info] RpcProvider::OnmMessage : header_size : 35
+23:23:47 =>[Info] RpcProvider::OnmMessage : rpc_header_str : 
+FiendServiceRpcGetFriendsList, Deserialization SUCCESS!
+23:23:47 =>[Info] RpcProvider::OnmMessage : args_str : è
+23:23:47 =>[Info] RpcProvider::SendRpcResponse() -> SerializeToString response_str: 
+ send!
