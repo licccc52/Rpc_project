@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/provider2.dir/runningDataService.cc.o CMakeFiles/provider2.dir/__/runningData.pb.cc.o  -o ../../bin/provider2   -L/home/li/Rpc_project/lib  -Wl,-rpath,/home/li/Rpc_project/lib ../../lib/libmprpc.a -lprotobuf -Wl,-Bstatic -ltcpepoll -Wl,-Bdynamic -lpthread -lzookeeper_mt 

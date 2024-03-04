@@ -1,0 +1,38 @@
+syntax = "proto3";
+package runningData;
+import "google/protobuf/empty.proto";
+// 表示生成service服务类和rpc方法描述，默认是不生成的
+option cc_generic_services = true;
+
+// 内存使用情况
+message MemoryUsage {
+    double memory_usage = 1; // 内存使用率
+}
+
+// 网卡
+message NetworkInterface {
+    string interface_name = 1; // 网络接口名称
+}
+
+// 网络统计信息
+message NetworkStats {
+    int64 receive_packets = 1; // 接收数据包数
+    int64 transmit_packets = 2;  // 发送字节数
+}
+
+//  CPU平均负载
+message CPULoad {
+    repeated double avg_load = 1; // 平均负载数组
+}
+
+
+
+service runningDataService {
+    // 计算内存使用率
+    rpc CalculateMemoryUsage (google.protobuf.Empty) returns (MemoryUsage);
+    // 指定网卡
+    rpc GetNetworkStats (NetworkInterface) returns (NetworkStats);
+    // CPU平均负载
+    rpc GetCPULoad (google.protobuf.Empty) returns (CPULoad);
+}
+//protoc runningData.proto --cpp_out=./
