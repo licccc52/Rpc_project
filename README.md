@@ -1,4 +1,4 @@
-# Mprpc + React_Server project2 一个分布式网路通信框架 + Reactor_server服务器
+# Mprpc + React_Server project2 一个分布式网络通信框架 + Reactor_server服务器
 #### 该项目是Mrpc项目[https://github.com/licccc52/Mprpc_project] 改造
 
 #### 用该Reactor_server项目[https://github.com/licccc52/Reactor_server]  代替原来的 muduo 库
